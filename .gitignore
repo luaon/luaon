@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# Jetbrains series development tool
+.idea
+
+# Visual Studio Code
+.vscode
